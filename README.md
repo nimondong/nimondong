@@ -1,7 +1,6 @@
-Hey 👋, I'm Nimon Nimon Dong</h1>
-Hi, my name is Nimon Dong. I am currently a Strategy and Operations Business Analyst @ Deloitte Consulting. 
+<h1>Hey 👋, I'm Nimon Nimon Dong</h1>
 
-I graduated from Northwestern University with a major in Economics and a minor in Data Science. Outside of work, I enjoy cooking delicious food (follow my food instagram @chef.nimon) and running! </h3>
+<h3>Hi, my name is Nimon Dong. I am currently a Strategy and Operations Business Analyst @ Deloitte Consulting. I graduated from Northwestern University with a major in Economics and a minor in Data Science. Outside of work, I enjoy cooking delicious food (follow my food instagram @chef.nimon) and running! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimondong" alt="nimondong" /> </p>
 
