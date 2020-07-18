@@ -2,7 +2,11 @@
 
 <h2>Hi, my name is Nimon Dong. (Pronouced like Timon from Lion King but with an N).</h2>
   
-<h3> I am currently a Strategy and Operations Business Analyst @ Deloitte Consulting. I graduated from Northwestern University with a major in Economics and a minor in Data Science. 
+<h3> I am currently a Strategy and Operations Business Analyst @ Deloitte Consulting. 
+  
+  
+  I graduated from Northwestern University with a major in Economics and a minor in Data Science. 
+  
   
   Outside of work, I enjoy cooking delicious food (follow my food instagram @chef.nimon) and running! </h3>
 
