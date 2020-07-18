@@ -5,6 +5,7 @@
 <h3> I am currently a Strategy and Operations Business Analyst @ Deloitte Consulting. 
   
   
+  
   I graduated from Northwestern University with a major in Economics and a minor in Data Science. 
   
   
