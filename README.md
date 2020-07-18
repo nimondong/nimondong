@@ -1,6 +1,6 @@
 <h1>Hey 👋, I'm Nimon</h1>
 
-<h2>Hi, my name is Nimon Dong. (Pronouced like Timon from Lion King but with an N).<h2>
+<h2>Hi, my name is Nimon Dong. (Pronouced like Timon from Lion King but with an N).</h2>
   
 <h3> I am currently a Strategy and Operations Business Analyst @ Deloitte Consulting. I graduated from Northwestern University with a major in Economics and a minor in Data Science. 
   
