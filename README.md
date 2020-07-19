@@ -24,7 +24,7 @@ My name is **Nimon Dong**. (Pronouced like Timon from Lion King but with an N) ð
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-FF9E17?style=flat-square&logo=Tableau&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/-Excel-1D6F42?style=flat-square&logo=microsoft)
-![JavaScript](https://img.shields.io/badge/-JavaScript-61DBFB?style=flat-square&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%23239120.svg?&style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=white)
