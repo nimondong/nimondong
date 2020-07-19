@@ -1,21 +1,16 @@
-<h1>Hey 👋, I'm Nimon</h1>
+### Hi 👋, Welcome to my Github Page! 
 
-<h2>Hi, my name is Nimon Dong. (Pronouced like Timon from Lion King but with an N).</h2>
-  
-<h3> I am currently a Strategy and Operations Business Analyst @ Deloitte Consulting. 
-  
-  
-  
-  I graduated from Northwestern University with a major in Economics and a minor in Data Science. 
-  
-  
-  Outside of work, I enjoy cooking delicious food (follow my food instagram @chef.nimon) and running! </h3>
+Hi, my name is *Nimon Dong*. (Pronouced like Timon from Lion King but with an N) 🦁.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimondong" alt="nimondong" /> </p>
+#### About Me
 
-- 📝 I regulary write articles on [https://nimondong.com](https://nimondong.com)
+- 💼 Strategy and Operations Business Analyst @ Deloitte Consulting
 
-- 💬 Ask me about **anything, I am happy to help and share my experiences! **
+- 🎓 Northwestern University Class of 2020 (Economics / Data Science)
+
+- 🌱 I’m currently learning AI, ML, Crypto / Blockchain
+
+- 💬 Ask me about **anything, I am happy to help and share my experiences!**
 
 - 📫 How to reach me **dong.nimon@gmail.com**
 
