@@ -1,8 +1,6 @@
-## Hi 👋, Welcome to my Github Page! 
+## Hi <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, Welcome to my Github Page! 
 
 Hi, my name is **Nimon Dong**. (Pronouced like Timon from Lion King but with an N) 🦁
-
-
 
 <a href="https://bit.ly/3eFhBYf"><img src="https://img.shields.io/badge/resume-%230A0A0A.svg?&style=for-the-badge&logo=paper&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/nimondong"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/nimon.dong/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://open.spotify.com/user/nimon.dong?si=tuwJMr5_SjyAUZZbPM8cUA/"><img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" height=25></a>
 
