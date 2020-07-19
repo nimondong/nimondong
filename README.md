@@ -1,6 +1,6 @@
 ### Hi 👋, Welcome to my Github Page! 
 
-Hi, my name is *Nimon Dong*. (Pronouced like Timon from Lion King but with an N) 🦁.
+Hi, my name is **Nimon Dong**. (Pronouced like Timon from Lion King but with an N) 🦁.
 
 #### About Me
 
