@@ -10,6 +10,8 @@ Hi, my name is **Nimon Dong**. (Pronouced like Timon from Lion King but with an 
 
 - 🎓 Northwestern University Class of 2020 (Economics / Data Science)
 
+- 📝 [Resume](https://drive.google.com/file/d/1DDwA3Ao7Fc_Z6-bBObgSzoHTl6aBNW8N/view?usp=sharing)
+
 - 🌱 I’m currently learning AI, ML, Crypto / Blockchain
 
 - 💬 Ask me about **anything, I am happy to help and share my experiences!**
