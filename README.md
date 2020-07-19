@@ -26,8 +26,8 @@ Hi, my name is **Nimon Dong**. (Pronouced like Timon from Lion King but with an 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-FF9E17?style=flat-square&logo=Tableau&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-1D6F42?style=flat-square&logo=microsoft)
-![HTML](https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%23239120.svg?&style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=white)
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=nimondong&show_icons=true" alt="nimondong" /> </p>
