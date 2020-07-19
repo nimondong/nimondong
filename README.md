@@ -20,6 +20,4 @@ Hi, my name is **Nimon Dong**. (Pronouced like Timon from Lion King but with an 
 
 - ⚡ Fun fact: **I have met the real life Delilah from Plain White T's - Hey There Delilah**
 
-- 🕶 Hobbies: Formula One Enthusiast 🏎 , NBA Basketball 🏀, Cooking 🧑🏻
-🍳, Cello 🎻
 <p> <img src="https://github-readme-stats.vercel.app/api?username=nimondong&show_icons=true" alt="nimondong" /> </p>
