@@ -4,15 +4,15 @@ Hi, my name is **Nimon Dong**. (Pronouced like Timon from Lion King but with an 
 
 #### About Me
 
-- 💼 Strategy and Operations Business Analyst @ Deloitte Consulting
+- 💼 Str ategy and Operations Business Analyst @ Deloitte Consulting
 
-- 🎓 Northwestern University Class of 2020 (Economics / Data Science)
+- 🎓  Northwestern University Class of 2020 (Economics / Data Science)
 
-- 🌱 I’m currently learning AI, ML, Crypto / Blockchain
+- 🌱  I’m currently learning AI, ML, Crypto / Blockchain
 
-- 💬 Ask me about **anything, I am happy to help and share my experiences!**
+- 💬  Ask me about **anything, I am happy to help and share my experiences!**
 
-- 📫 How to reach me **dong.nimon@gmail.com**
+- 📫  How to reach me **dong.nimon@gmail.com**
 
 - ⚡ Fun fact **I have met the real life Delilah from Plain White T's - Hey There Delilah!**
 
