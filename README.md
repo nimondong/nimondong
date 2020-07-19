@@ -27,5 +27,6 @@ Hi, my name is **Nimon Dong**. (Pronouced like Timon from Lion King but with an 
 ![Tableau](https://img.shields.io/badge/-Tableau-FF9E17?style=flat-square&logo=Tableau)
 ![MySQL](https://img.shields.io/badge/-MySQL-light-grey?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Microsoft Excel](https://img.shields.io/badge/-Microsoft Excel-green?style=flat-square&logo=microsoft)
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=nimondong&show_icons=true" alt="nimondong" /> </p>
