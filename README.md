@@ -23,7 +23,7 @@ My name is **Nimon Dong**. (Pronouced like Timon from Lion King but with an N) ð
 ![R](https://img.shields.io/badge/-R-4AA4DE?style=flat-square&logo=R)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-FF9E17?style=flat-square&logo=Tableau&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-1D6F42?style=flat-square&logo=microsoft)
+![Microsoft Excel](https://img.shields.io/badge/-Excel-1D6F42?style=flat-square&logo=microsoft)
 ![HTML](https://img.shields.io/badge/HTML5-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%23239120.svg?&style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=flat-square&logo=react&logoColor=white)
