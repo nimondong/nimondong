@@ -25,7 +25,7 @@ Hi, my name is **Nimon Dong**. (Pronouced like Timon from Lion King but with an 
 ![R](https://img.shields.io/badge/-R-4AA4DE?style=flat-square&logo=R)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Tableau](https://img.shields.io/badge/-Tableau-FF9E17?style=flat-square&logo=Tableau)
-![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat-square&logo=mysql)
+![MySQL](https://img.shields.io/badge/-MySQL-grey?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=nimondong&show_icons=true" alt="nimondong" /> </p>
