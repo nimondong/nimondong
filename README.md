@@ -10,8 +10,6 @@ Hi, my name is **Nimon Dong**. (Pronouced like Timon from Lion King but with an 
 
 - 🎓 Northwestern University Class of 2020 (Economics / Data Science)
 
-- 📍 Currently living in Chicago, IL 
-
 - 🌱 I’m currently learning AI, ML, Crypto / Blockchain
 
 - 💬 Ask me about **anything, I am happy to help and share my experiences!**
