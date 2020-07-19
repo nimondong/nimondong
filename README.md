@@ -16,6 +16,6 @@ Hi, my name is **Nimon Dong**. (Pronouced like Timon from Lion King but with an 
 
 - 📫 How to reach me **dong.nimon@gmail.com**
 
-- ⚡ Fun fact **I have met the real life Delilah from Plain White T's - Hey There Delilah!**
+- ⚡ Fun fact: **I have met the real life Delilah from Plain White T's - Hey There Delilah**
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=nimondong&show_icons=true" alt="nimondong" /> </p>
